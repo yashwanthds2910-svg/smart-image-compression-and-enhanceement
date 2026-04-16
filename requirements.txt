@@ -1,0 +1,14 @@
+torch
+torchvision>=0.14
+numpy
+Pillow
+scikit-image
+pyyaml
+tqdm
+streamlit
+matplotlib
+opencv-python
+tensorboard
+reportlab
+cryptography
+

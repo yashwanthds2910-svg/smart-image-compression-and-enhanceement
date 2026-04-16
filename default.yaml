@@ -1,0 +1,14 @@
+train:
+  epochs: 5
+  batch_size: 8
+  lr: 0.001
+  patch_size: 128
+  save_dir: experiments/run001
+data:
+  root: data
+  use_sample: true
+  sample_count: 100
+logging:
+  log_interval: 50
+model:
+  latent_dim: 128
